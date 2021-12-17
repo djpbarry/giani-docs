@@ -79,7 +79,7 @@ master_doc = 'index'
 
 #highlight_language = 'groovy'
 
-#html_logo = 'docs/images/qupath_128.png'
+html_logo = 'docs/overview/images/Icon.png'
 
 #html_favicon = 'docs/images/QuPath.ico'
 
