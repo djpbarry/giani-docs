@@ -11,4 +11,4 @@ Giani is a FIJI plugin for the routine analysis of 3D cell biology image data. I
 * Measure nuclear and cell morphology, together with fluorescence intensities within these regions.
 * Explore results using a results browser based on the 3D RoiManager
 
-Check out the `original publication describing GIANI <https://doi.org/10.1101/2020.10.15.340810>`
+Check out the `original publication describing GIANI <https://doi.org/10.1101/2020.10.15.340810>`_.
