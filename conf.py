@@ -68,13 +68,13 @@ html_theme_options = {
 
 master_doc = 'index'
 
-rst_prolog = """
-.. |br| raw:: html
-  <br/>
+#rst_prolog = """
+#.. |br| raw:: html
+#  <br/>
   
-.. |vertical_ellipsis| unicode:: 0x22EE
-.. |copyright| unicode:: 0xA9
-"""
+#.. |vertical_ellipsis| unicode:: 0x22EE
+#.. |copyright| unicode:: 0xA9
+#"""
 
 
 #highlight_language = 'groovy'
