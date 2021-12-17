@@ -1,6 +1,11 @@
-******************
+****************
 Welcome to GIANI
-******************
+****************
+
+.. figure:: docs/overview/images/GianiIcon.png
+  :class: shadow-image
+  :width: 75%
+  :align: center
 
 This page hosts the documentation for GIANI |version|.
 
