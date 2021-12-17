@@ -1,8 +1,3 @@
-.. figure:: images/GianiIcon.png
-  :class: shadow-image
-  :width: 75%
-  :align: center
-
 **************
 What is GIANI?
 **************
