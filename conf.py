@@ -30,9 +30,9 @@ author = 'GIANI docs authors'
 extensions = [
     #'myst_parser',
     'sphinx_rtd_theme',
-    'sphinx_panels',
-    'sphinx.ext.autosectionlabel',
-    'sphinx_search.extension'
+    #'sphinx_panels',
+    #'sphinx.ext.autosectionlabel',
+    #'sphinx_search.extension'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
