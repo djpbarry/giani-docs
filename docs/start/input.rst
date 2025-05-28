@@ -1,3 +1,7 @@
+************
+Selecting Input Files
+************
+
 When you run GIANI, the first thing you’re presented with is a dialog
 requesting the location of the input directory:
 
@@ -17,11 +21,3 @@ analyse.
 
 If the text denoting your input directory is highlighted in red, this
 indicates that an invalid input directory has been specified.
-
---------------
-
-**Proceed to** `Selecting a Preview Data
-Set <https://github.com/djpbarry/Giani/wiki/Selecting-a-Preview-Data-Set>`__
-
-**Go back to** `Getting
-Started <https://github.com/djpbarry/Giani/wiki/Getting-Started>`__
