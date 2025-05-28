@@ -1,3 +1,7 @@
+*****************
+Design Philosophy
+*****************
+
 GIANI has been designed to batch analyse 3D datasets with minimal user
 interaction. In principle, all that is required to run an analysis is a
 set of parameters, which can be specified either via the user interface
