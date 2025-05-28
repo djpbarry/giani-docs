@@ -12,7 +12,11 @@ submenu:
 
    GIANI on FIJI’s Plugins menu
 
+Jump to
+========
+
 .. toctree::
   :maxdepth: 2
   
   input
+  preview
