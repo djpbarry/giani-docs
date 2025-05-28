@@ -37,11 +37,3 @@ format. This can be done using either the Bio-Formats plugin for
 ImageJ/FIJI, or using the Bio-Formats command line tools. Instructions
 on how to use Bio-Formats are available
 `here <https://docs.openmicroscopy.org/bio-formats/6.9.0/users/index.html>`__.
-
---------------
-
-**Proceed to** `Design
-Philosophy <https://github.com/djpbarry/Giani/wiki/Design-Philosophy>`__
-
-**Go back to**
-`Installation <https://github.com/djpbarry/Giani/wiki/Installation>`__
