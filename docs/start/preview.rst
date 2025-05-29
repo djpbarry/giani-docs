@@ -7,8 +7,6 @@ will become active:
 .. figure:: ../images/GIANI_Select_Input_Preview_File.PNG
    :alt: GIANI Select Input Preview File
 
-   GIANI Select Input Preview File
-
 The file selected here will be used to preview the results of analysis
 parameters specified in subsequent steps. Selecting a file from this
 drop-down will cause it to be initialised. This means that, in the
@@ -28,15 +26,11 @@ here:
 .. figure:: ../images/GIANI_Select_Input_Preview_Series.PNG
    :alt: GIANI Select Input Preview Series
 
-   GIANI Select Input Preview Series
-
 If you wish, you can at this point preview specific channels within the
 selected dataset:
 
 .. figure:: ../images/GIANI_Select_Input_Preview_Channel.PNG
    :alt: GIANI Select Input Preview Channel
-
-   GIANI Select Input Preview Channel
 
 When you are happy with the preview data set you have selected, you can
 click next to proceed with the specification of analysis parameters.
