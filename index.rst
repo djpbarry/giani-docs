@@ -17,8 +17,8 @@ This page hosts the documentation for GIANI |version|.
    docs/start/index
    docs/nuclei/index
    docs/cells/index
-   docs/complete/index
    docs/measure/index
+   docs/complete/index
    docs/results/index
    docs/test/index
    docs/cluster/index

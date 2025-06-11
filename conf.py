@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'GIANI'
-copyright = '2019-2021, GIANI docs authors'
-author = 'GIANI docs authors'
+copyright = '2019-2025, GIANI docs authors'
+author = 'Dave Barry'
 
 
 # -- General configuration ---------------------------------------------------
@@ -84,4 +84,4 @@ html_logo = 'docs/overview/images/Icon.png'
 #html_favicon = 'docs/images/QuPath.ico'
 
 #release = '0.3.0'
-version = '3.0'
+version = '3.4.9'
