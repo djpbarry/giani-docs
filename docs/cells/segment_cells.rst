@@ -8,5 +8,5 @@ This panel completes the cell segmentation process by watershed on the filtered 
 
 Clicking Preview will calculate and display the resultant segmentation:
 
-.. figure:: ../images/GIANI_Segment_Cell_Preview.PNG
+.. figure:: ../images/GIANI_Segment_Cells_Preview.PNG
    :alt: Cell Segmentation Preview
