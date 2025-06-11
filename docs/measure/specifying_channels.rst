@@ -17,9 +17,9 @@ A number of shape descriptors, describing the morphology of the cells and their 
 * Volume
 * Surface area
 
-Clicking _Preview_ will display a results table containing all of the above measurements for each region of each cell in each of the channels selected.
+Clicking ``Preview`` will display a results table containing all of the above measurements for each region of each cell in each of the channels selected.
 
 .. figure:: ../images/GIANI_Measurement_Preview.PNG
    :alt: GIANI Measurement Preview
 
-At this point, you have specified enough parameters to run a complete analysis on all images in your input directory. Alternatively, clicking _Localise Spots_ makes available additional options to `localise spots <localising_spots.rst>`.
+At this point, you have specified enough parameters to run a complete analysis on all images in your input directory. Alternatively, clicking _Localise Spots_ makes available additional options to `localise spots <localising_spots.rst>`_.
