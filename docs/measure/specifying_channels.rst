@@ -22,4 +22,4 @@ Clicking ``Preview`` will display a results table containing all of the above me
 .. figure:: ../images/GIANI_Measurement_Preview.PNG
    :alt: GIANI Measurement Preview
 
-At this point, you have specified enough parameters to run a complete analysis on all images in your input directory. Alternatively, clicking _Localise Spots_ makes available additional options to `localise spots <localising_spots.rst>`_.
+At this point, you have specified enough parameters to run a complete analysis on all images in your input directory. Alternatively, clicking ``Localise Spots`` makes available additional options to `localise spots <localising_spots>`_.
