@@ -15,6 +15,7 @@ When running GIANI in headless mode, you must specify at least:
 For example, the following command will run GIANI on a file called ``test_image.ome.tiff`` file using ``properties.xml``::
 
 .. code:: shell
+
    java -jar <Path to FIJI/plugins/giani*.jar> -f test_image.ome.tiff -p properties.xml
 
 You need to replace ``<Path to FIJI/plugins/giani*.jar>`` with the full path to the giani\*.jar in your FIJI plugins directory. The above command will look exactly the same, regardless of whether you are running GIANI on Windows, Linux or Mac.
