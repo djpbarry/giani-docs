@@ -2,6 +2,8 @@
 Running GIANI Headlessly
 ************
 
+.. highlight:: shell
+
 Overview
 ========
 
@@ -13,8 +15,6 @@ When running GIANI in headless mode, you must specify at least:
 * One or more files to be processed.
 
 For example, the following command will run GIANI on a file called ``test_image.ome.tiff`` file using ``properties.xml``::
-
-.. code:: shell
 
    java -jar <Path to FIJI/plugins/giani*.jar> -f test_image.ome.tiff -p properties.xml
 
