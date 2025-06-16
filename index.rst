@@ -19,6 +19,5 @@ This page hosts the documentation for GIANI |version|.
    docs/cells/index
    docs/measure/index
    docs/complete/index
-   docs/results/index
    docs/test/index
    docs/cluster/index
